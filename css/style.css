@@ -49,12 +49,16 @@ main {
   text-transform: capitalize;
 }
 
+
+
 .form {
   position: absolute;
   width: 65%;
   top: 65%;
   left: 13.5%;
 }
+
+
 
 .input__search {
   width: 100%;
